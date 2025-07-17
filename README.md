@@ -5,7 +5,9 @@ This project uses publicly available data from the National Health and Nutrition
 
 Centers for Disease Control and Prevention (CDC). National Center for Health Statistics (NCHS). *National Health and Nutrition Examination Survey Data*. Hyattsville, MD: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention. https://www.cdc.gov/nchs/nhanes/
 
+
 The variable codings used in this project are documented in the file `XX`
+
 
 For a detailed explanation of the model training protocol, see:
 
