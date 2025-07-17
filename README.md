@@ -11,4 +11,4 @@ The variable codings used in this project are documented in the file `XX`
 
 For a detailed explanation of the model training protocol, see:
 
-Tirkkonen, O., Tiensuu, H., Väyrynen, E., Suutala, J., Vuollo, V., Laitala, M. L., & Karki, S. (2025). An explainable and transparent machine learning approach for predicting dental caries: A cross-national validation study. Research Square. https://doi.org/10.21203/rs.3.rs-6783190/v1
+Tirkkonen, O., Tiensuu, H., Väyrynen, E., Suutala, J., Vuollo, V., Laitala, M. L., & Karki, S. (2025). An Explainable and Transparent Machine Learning Approach for Predicting Dental Caries: A Cross-National Validation Study. Research Square. https://doi.org/10.21203/rs.3.rs-6783190/v1
